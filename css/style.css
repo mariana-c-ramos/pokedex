@@ -29,13 +29,13 @@ img{
     max-width: 425px; 
 }
 .pokemon__img{
-    width: 30%;
+    width: 25%;
     position: absolute;
     right: 50%;
-    transform: translateX(46%);
+    transform: translateX(35%);
     margin-inline: auto;
     bottom: 50%;
-    height: 18%;
+    
 }
 .pokemon__data{
     position: absolute;
