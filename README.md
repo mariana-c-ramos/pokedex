@@ -1,5 +1,5 @@
 # miana-pokedex
-This is a project that involves all tech I have learned up until now.
+This is a project that involves all tech I have learned up until now.<br>
 [Project URL](https://mariana-c-ramos.github.io/pokedex/)
 
 ## Tech Used
